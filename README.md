@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiyRM
-- 👀 estou interessada em me aprofundar no conhecimento de programação.
-- 🌱 estou aprendendo atualmente conteúdos de programação fornecidos pela seed.
+- 👀 Estou interessada em me aprofundar no conhecimento de programação.
+- 🌱 Estou aprendendo atualmente conteúdos de programação fornecidos pela seed.
 
 
 <!---
